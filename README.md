@@ -1,4 +1,4 @@
-# document-summarizer
+# document-summarizer : Tinkerpad
 
 Document Summarization and Q&amp;A platform. A hackathon project!
 
